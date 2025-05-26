@@ -1,5 +1,13 @@
 <h1 align="center">Reddit WarmUp Farm Bot</h1>
 
+## Project Overview:
+This is an advanced Reddit automation and warm-up bot designed to manage and grow large-scale Reddit account farms with minimal manual input. Built for stealth and stability, it simulates human-like activity to evade detection while gradually warming up new accounts through AI-driven interactions. The system is tailored for individuals or agencies managing hundreds of accounts for karma farming, engagement, or monetization prep—no official API use, full browser automation.
+
+## Core Features:
+- **Stealth Mode Enabled:** Uses fingerprint spoofing, proxy rotation, cookie storage, and time-zone matching to simulate authentic user behavior.
+- **Hands-Free Account Farming:** Automatically warms up accounts with smart scrolling, upvoting, and AI-generated comments based on account status.
+- **Scalable Architecture:** Built to manage hundreds of accounts with customizable profiles, remote access sharing, and eventual monetization features.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,14 +70,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This is an advanced Reddit automation and warm-up bot designed to manage and grow large-scale Reddit account farms with minimal manual input. Built for stealth and stability, it simulates human-like activity to evade detection while gradually warming up new accounts through AI-driven interactions. The system is tailored for individuals or agencies managing hundreds of accounts for karma farming, engagement, or monetization prep—no official API use, full browser automation.
-
-## Core Strengths:
-- **Stealth Mode Enabled:** Uses fingerprint spoofing, proxy rotation, cookie storage, and time-zone matching to simulate authentic user behavior.
-- **Hands-Free Account Farming:** Automatically warms up accounts with smart scrolling, upvoting, and AI-generated comments based on account status.
-- **Scalable Architecture:** Built to manage hundreds of accounts with customizable profiles, remote access sharing, and eventual monetization features.
 
 ## Features List:
 | **Feature**             | **Description**                                                              |
